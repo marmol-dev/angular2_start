@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es5",
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true
+  },
+  "filesGlob": [
+    "typings/main.d.ts",
+    "src/**/*.ts",
+    "src/**/*.ts",
+    "own_typings.d.ts"
+  ],
+  "compileOnSave": false,
+  "atom": {
+    "rewriteTsconfig": true
+  },
+  "files": [
+    "typings/main.d.ts",
+    "src/client/app.ts",
+    "src/client/client.ts",
+    "src/server/server.ts",
+    "own_typings.d.ts"
+  ]
+}
