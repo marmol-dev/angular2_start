@@ -20,7 +20,6 @@
     "express": "^4.13.4",
     "lodash": "^3.10.1",
     "parse5": "^1.5.0",
-    "preboot": "^1.0.2",
     "reflect-metadata": "0.1.2",
     "rxjs": "^5.0.0-beta.2",
     "typings": "^0.6.8",
@@ -31,11 +30,9 @@
     "copy-webpack-plugin": "^1.1.1",
     "nodemon": "^1.8.1",
     "ts-loader": "^0.7.2",
-    "tsd": "^0.6.5",
     "typescript": "^1.7.3",
     "typings": "^0.6.8",
     "webpack": "^1.12.10",
-    "webpack-dev-server": "^1.14.0",
     "webpack-merge": "^0.7.1"
   }
 }
